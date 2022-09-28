@@ -3,7 +3,14 @@ import os
 import glob
 import numpy as np
 import cv2 as cv
+import concurrent.futures
+from os import listdir
+from os.path import isfile, join
 from pdf2image import convert_from_path
+
+
+PDF_FOLDER_PATH = 'pdfs'
+TXT_OUTPUT_PATH = 'txts'
 
 
 def resize_img(img, scale_percent):
@@ -17,18 +24,17 @@ def resize_img(img, scale_percent):
 def pdf_to_img(path: str):
     imgs = []
     pages = convert_from_path(path, 500)
-    for page_num, raw_img in enumerate(pages):
+    for raw_img in pages:
         numpy_img = np.array(raw_img)
         gray = cv.cvtColor(numpy_img, cv.COLOR_BGR2GRAY)
-        blur = cv.GaussianBlur(gray, (3, 3), 0)
+        blur = cv.GaussianBlur(gray, (5, 5), 0)
         thresh = cv.adaptiveThreshold(
             blur, 255, cv.ADAPTIVE_THRESH_MEAN_C, cv.THRESH_BINARY_INV, 21, 10
         )
-        kernel = cv.getStructuringElement(cv.MORPH_CROSS, (3, 3))
+        kernel = cv.getStructuringElement(cv.MORPH_RECT, (3, 3))
         closing = cv.morphologyEx(thresh, cv.MORPH_CLOSE, kernel)
         imagem = cv.bitwise_not(closing)
         imgs.append(imagem)
-        # cv.imwrite(f"{path[:-4]}_{page_num}.png", imagem)
     return imgs
 
 
@@ -42,14 +48,13 @@ def img_to_txt_from_file(path: str):
     return text
 
 
-def img_to_txt(img, name):
-    text = pytesseract.image_to_string(img, lang="pol+equ")
-    if len(text) < 3:
-        return None
-    text = text.replace('\n', ' ')
-    with open(f'exams_keys/{name}/{name}.txt', "a") as f:
-        f.write(text)
-        f.write("\n")
+def img_to_txt(img, path, name):
+    text = pytesseract.image_to_string(img, lang="pol")
+    text = text.replace('\n', ' ').strip()
+    if len(text) > 5:
+        with open(f'{path}/{name}.txt', "a") as f:
+            f.write(text)
+            f.write("\n")
     return text
 
 
@@ -62,20 +67,21 @@ def get_boxes_with_content(img):
     rule_box_cntrs = [
         cntr
         for cntr in contours
-        if 0.5*rule_box_size < cv.contourArea(cntr) < 2*rule_box_size
+        if 0.2*rule_box_size < cv.contourArea(cntr) < 3*rule_box_size
     ]
     approxed = list(map(get_approx_cntr, rule_box_cntrs))
 
-    # rgb = cv.cvtColor(img.copy(), cv.COLOR_GRAY2RGB)
-    # cnrs = cv.drawContours(rgb, approxed, -1, (0,255,0), 2)
-    # cv.imwrite("cntrs.png", rgb)
+    rgb = cv.cvtColor(img.copy(), cv.COLOR_GRAY2RGB)
+    cv.drawContours(rgb, approxed, -1, (255,255,255), 7)
+    cv.drawContours(rgb, sorted_contours, 1, (255,255,255), 10)
+    # cv.imwrite("cnrs.png", rgb)
 
     reshaped = [box.reshape((-1,2)) for box in approxed]
     reshaped = np.flip(reshaped, axis=0)
-    return reshaped
+    return reshaped, rgb
 
 def get_approx_cntr(cnt):
-    epsilon = 0.01*cv.arcLength(cnt,True)
+    epsilon = 0.015*cv.arcLength(cnt,True)
     approx = cv.approxPolyDP(cnt,epsilon,True)
     return approx
 
@@ -85,37 +91,42 @@ def crop_img_to_one_question(bounding_boxes, img):
     for box in bounding_boxes:
         min_x, max_x, _, _ = cv.minMaxLoc(box[:,0])
         min_y, max_y, _, _ = cv.minMaxLoc(box[:,1])
-        croped = img[int(min_y+10):int(max_y-30), int(min_x+10):int(max_x-10)]
+        croped = img[int(min_y):int(max_y), int(min_x):int(max_x)]
         question_images.append(croped)
-    # cv.imwrite("croped.png", question_images[3])
+        # cv.imwrite("croped.png", croped)
     return question_images
 
 
-year = '2013'
-pages = pdf_to_img(f'exams_keys/{year}/{year}.pdf')
-bounding_boxes = get_boxes_with_content(pages[0])
-question_images = crop_img_to_one_question(bounding_boxes, pages[0])
-
-try:
-    os.remove(f'exams_keys/{year}/{year}.txt')
-except:
-    pass
-
-for img in question_images:
-    img_to_txt(img, year)
-
+def get_txts(year):
+    try:
+        os.remove(f'{TXT_OUTPUT_PATH}/{year}.txt')
+    except:
+        pass
+    pages = pdf_to_img(f'{PDF_FOLDER_PATH}/{year}.pdf')
+    for page in pages:
+        bounding_boxes, text_img = get_boxes_with_content(page)
+        question_images = crop_img_to_one_question(bounding_boxes, text_img)
+        for img in question_images:
+            img_to_txt(img, TXT_OUTPUT_PATH, year)
 
 
+# year = '2014'
+
+
+years = [f[:-4] for f in listdir(PDF_FOLDER_PATH) if isfile(join(PDF_FOLDER_PATH, f))]
+# get_txts(years[0])
+
+
+for year in years:
+    get_txts(year)
 
 
 
-# img_to_txt(r"exams_keys/2012/*.png")
+
+# pages = pdf_to_img(f'pdfs/{year}.pdf')
+# bounding_boxes, rgb = get_boxes_with_content(pages[-1])
+# question_images = crop_img_to_one_question(bounding_boxes, rgb)
+# for img in question_images:
+#     img_to_txt(img, year)
 
 
-# text = img_to_txt("croped.png")
-# text = text.replace('\n', ' ')
-# text = text + '\n'
-
-# with open(f"xxx.txt", "a") as f:
-#     f.write(text)
-#     f.write('\n')

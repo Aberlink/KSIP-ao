@@ -130,5 +130,7 @@ dmypy.json
 
 /images
 /exams_keys
-/txts
+/txts_manual
 notes.txt
+*.png
+*.pdf
