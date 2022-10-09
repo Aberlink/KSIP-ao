@@ -29,7 +29,8 @@ def split_paragraps(text):
 def detect_commons(text):
     commons = text.replace('\n', ' ')
     commons = re.findall(r'(\d{1,4}(\ |-\d{0,3}\ |\w\ )\w{2,4}\s)', commons)
-    return commons
+    commons_paragraphs = [x[0][:-1] for x in commons]
+    return commons_paragraphs
 
 
 def save_txt_file(text, path):
@@ -38,17 +39,13 @@ def save_txt_file(text, path):
             f.write(line)
 
 
-
-path = 'txts_manual/2009.txt'
-# path = 'txts_readed/2017.txt'
-
-text = remove_empty_lines(path)
-text = split_paragraps(text)          
-commons = detect_commons(text)
-# print(commons[5][0])
-[print(x[0]) for x in commons]
-save_txt_file(text, f'{path[:-4]}_clean.txt')    
+def get_exam_questions(path):
+    text = remove_empty_lines(path)
+    text = split_paragraps(text)          
+    commons = detect_commons(text)  
+    return commons
 
 
-txt = '454 l kc'
-# print(re.search(r'\d{1,4}(\ |-\d{0,3}\ |\w\ )\w{2,4}\s', text))
+if __name__ == '__main__':
+    EXAM_2012 = get_exam_questions('txts_manual/2012.txt')
+    print(EXAM_2012)

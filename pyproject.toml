@@ -13,6 +13,7 @@ pytesseract = "^0.3.10"
 tesseract = "^0.1.3"
 pdf2image = "^1.16.0"
 opencv-python = "^4.6.0"
+matplotlib = "^3.6.1"
 
 [tool.poetry.dev-dependencies]
 

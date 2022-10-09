@@ -14,7 +14,7 @@ art. 173 $ 3 ustawy Prawo o prokuraturze
 art. 120 $2 k.c.
 art. 51 $1i2k.e.
 art 111 $2 k.c.
-art. 55” k.c.
+art. 55-4 k.c.
 art. 150 k.c.
 art. 264 k.c.
 art, 259 k.c.
@@ -22,20 +22,20 @@ art. 330 k.c.
 art. 451 $1 k.c.
 art. 382 $ 1 k.c.
 art. 925 k.c.
-art. 928 $ 1 pkt2ki.c.
+art. 928 k.c.
 art. 932 $3i 5 k.c.
 art. 1015 $ 1 k.c. i art. 1020 k.c.
 art. 1039 $ 1 k.c.
-art. 394'* 81 pkt 10 k.p.c
-art. 47” $ 2 k.p.c.
+art. 394-1a 81 pkt 10 k.p.c
+art. 47-2 $ 2 k.p.c.
 art. 259 pkt 3 i 4 k.p.c. w zw. z art. 267 k.p.c.
-art. 458" $ 2 k.p.e. w zw. zart. 177 $ 1 pkt 5 k.p.c.
-art. 117” $ 2 k.p.c.
-art. 560" k.p.c.
-art. 519 $1i$4pkt4k.p.c.
+art. 458-2 $ 2 k.p.e. w zw. zart. 177 $ 1 pkt 5 k.p.c.
+art. 117-1 $ 2 k.p.c.
+art. 560-1 k.p.c.
+art. 519 k.p.c.
 art. 544 $1 k.p.c.
-art. 545 $ 1 pkt31$ 2 k.p.c.
-art. 567" $ 2 k.p.c.
+art. 545 k.p.c.
+art. 567-2 k.p.c.
 art. 585 $ 1 k.p.c.
 art. 507 k.p.c.
 art. 612 $ 2 k.p.c.
@@ -45,7 +45,7 @@ art. 25 $ 3 k.r.o.
 art. 62 $ 3 k.r.o.
 art. 33 pkt 8 k.r.o.
 art. 37 $ 2 k.r.o.
-art, 61' $ 1 k.r.o.
+art, 61-1 $ 1 k.r.o.
 art. 63 k.r.o.
 art. 117 $ 1 k.r.o.
 art. 56 $ 3 k.r.o.
@@ -58,13 +58,13 @@ art. 3 k.p.
 art. 368 1 pkt 2 k.p.
 art. 37 $ 2 pkt2 k.p.
 art. 47 k.p.
-art. 93 $2pktl k.p.
-art. 103” $ 1 pkt 1 k.p.
-art 151 $1pkt1 lit. a k.p.
+art. 93 k.p.
+art. 103-2 $ 1 pkt 1 k.p.
+art 151 k.p.
 art. 178 $ 1 k.p.
 art. 182 $1 k.p.
 art. 186 $ 1 k.p.
-art, 241” $ 1 k.p.
+art, 241-5 k.p.
 art. 239 $ 2 k.p.
 art. 385 $ 1 k.s.h.
 art. 97 $1 k.s.h.
@@ -75,7 +75,7 @@ art. 1 $ 2 k.k.
 art. 2 k.k.
 art. 25 $ 3 k.k.
 art. 23 $ 1 k.k.
-art. 3481 k.k.
+art. 34 k.k.
 art. 68 $ 2 k.k.
 art. 69 $ 4 k.k.
 art. 93e k.k.
@@ -84,7 +84,7 @@ art. 86 $ la k.k.
 art. 75a $ 4 k.k,
 art. 88 k.k.
 art. 93d $ 6 k.k.
-art. 74 $ Ża k.k.
+art. 74 k.k.
 art. 93c pkt 5 k.k.
 art. 4 $ 1 k.k.s.
 art. 21 $ 2 k.k.s.
@@ -96,11 +96,11 @@ art. 10 k.w.
 art. 22 pkt 2 k.w.
 art. 28 $ 1 pkt 3 k.w.
 art. 29 $3 k.w.
-art. 14$1 k.w.
+art. 14 k.w.
 art. 237a k.p.k.
 art. 544 $ 1 k.p.k.
-art. 3855 1i lak.p.k.
-art. 626a zd. 2 k.p.k.
+art. 385k.p.k.
+art. 626a k.p.k.
 art. 539e $ 1 k.p.k.
 art. 14 $ 2 zd. 2 k.p.k.
 art. 23a $ 4 zd. 2 k.p.k.
@@ -123,12 +123,12 @@ art. 88 p.p.s.a.
 art. 124 $ 1 pkt 2 p.p.s.a.
 art. 186 p.p.s.a.
 art. 9 p.u.s.a.
-art. 1/51 p.u.sia.
+art. 17 p.u.s.a.
 art. 23 $ 1 p.u.s.a.
 art. 44 $ 1 p.u.s.a.
 art. 48 $ 4 p.u.s.a.
-art. 37$1 k.pia.
-art. 7Za$1i2 k.p.a.
+art. 37 k.p.a.
+art. 7a k.p.a.
 art. 64 $ 2 k.p.a.
 art. 16 $3 k.p.a. :
 art. 96f $ 2 k.p.a.

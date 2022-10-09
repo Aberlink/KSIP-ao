@@ -14,20 +14,20 @@ art. 135 $ I ustawy Prawo o prokuraturze
 art. 13 $ 2, art. 18 $ 2, art. 23 $ 5 ustawy Prawo o prokuraturze
 art. 15 $1 ustawy Prawo o prokuraturze
 art. 33 $ I w zw. art. 28 $ 1 pkt 2 ustawy Prawo o prokuraturze
-- art. 783 w zw. art. 8 $ 1 ustawy Prawo o prokuraturze
+art. 783 w zw. art. 8 $ 1 ustawy Prawo o prokuraturze
 art. 56 $ 2 ustawy Prawo o prokuraturze
 art. 360 k.c.
 art. 88 $ 2 k.c.
 art. 379 $2 k.c.
 art.119 k.c.
 art. 454 k.c.
-art. 675$1li2 k.c.
-art. 908$1i13 k.c.
-art. 709? k.c
+art. 675 k.c.
+art. 908 k.c.
+art. 709-2 k.c
 art. 531 $ 1 k.c.
 art. 814$ l k.c.
 art. 148 k.c.
-art. 151 k.c. w zw. zart. 222 $2kic.
+art. 151 k.c. w zw. zart. 222 $ 2k.c.
 art. 154$ 1 k.c.
 art. 207 k.c.
 art. 212 $ 1 k.c.
@@ -45,11 +45,11 @@ art. 1002 k.c.
 art. 58 $ 3 k.r.o.
 art. 33 pkt 10 k.r.o.
 art. 137 $ 1 k.r.o.
-art. 6119 $2i3iart. 61? k.r.o.
-art. 47! k.r.o.
+art. 61-10 k.r.o. 61-16 k.r.o.
+art. 47-1 k.r.o.
 art. 464 $ I k.p.c.
-art. 477!" k.p.c.
-art. 130$ 1i$1' k.p.c.
+art. 477-12 k.p.c.
+art. 130 k.p.c.
 art. 174 $ 1 pkt I k.p.c
 art. 199 $ 1 pkt 2 k.p.c.
 art. 261 $ 2 k.p.c.
@@ -61,13 +61,13 @@ art. 561 $ 2 k.p.c.
 art. 666 $ 1 k.p.c.
 art. 669' $ 2 k.p.c.
 art. 681 k.p.c.
-art. 398” $ 2 k.p.c.
-art. 519'$1,2i4k.p.c,
+art. 398-5 $ 2 k.p.c.
+art. 519-1 k.p.c,
 art. 104 $ 1' k.p.
 art. 66 $ 1 k.p.
-art. 103? $ 1 pkt 4 k.p.
+art. 103-2 $ 1 pkt 4 k.p.
 art. 187 $ I k.p.
-art. 304” $ 1 i 2 k.p.
+art. 304-5 $ 1 i 2 k.p.
 art. 264 $ I k.p.
 art. 262 $ 2 pkt 2 k.p.
 art. 166 pkt 1 k.p.
@@ -95,7 +95,7 @@ art. 44a $ I k.k.
 art. 44a $ 2 k.k.
 art. 45 $ 1 k.k.
 art. 271a $2 k.k.
-art. 11558517 k.k.
+art. 115 k.k.
 art. 102 k.k.
 art. 319 $ 2 k.k.
 art. 69 $ I k.k. w zw. zart. 69 $4 k.k.
@@ -111,7 +111,7 @@ art. 59 $ I k.p.s.w. w zw. zart. 57 $ 2 pkt 2 k.p.s.w.
 art. 42 $ 2 k.p.s.w.
 art. 23 $ I k.p.s.w. w zw. art. 22 k.p.s.w.
 art. 4 $ 1 k.p.s.w.
-art. 182$1,213 k.p.k. i art. 183 $ 112 k.pik.
+art. 182$1,213 k.p.k. i art. 183 $ 112 k.p.k.
 art. 221 $ I k.p.k.
 art. 327 $ 2 k.p.k.
 art. 170$ 113 k.p.k.
@@ -129,15 +129,15 @@ art. 607a k.p.k.
 art. 20 $ 3 ustawy Prawo o postępowaniu przed sądami administracyjnymi
 art. 24 $ I w zw. zart. 18 $ I pkt 2 ustawy Prawo o postępowaniu przed sądami administracyjnymi
 art. 64a ustawy Prawo o postępowaniu przed sądami administracyjnymi
-art. 1lóc $ I ustawy Prawo o postępowaniu przed sądami administracyjnymi
+art. 116c $ 3 ustawy Prawo o postępowaniu przed sądami administracyjnymi
 art. 285a $ 3 ustawy Prawo o postępowaniu przed sądami administracyjnymi
 art. 37 $ 1 pkt 2 k.p.a.
-art. óla$ I k.p.a.
+art. ó1a $ I k.p.a.
 art. 83 $ 4 k.p.a.
 art. 86 k.p.a.
 art. 143 w zw. zart. 126 k.p.a.
 art. 134 k.p.a.
-art. 261 $l1i4pkt3 k.p.a.
+art. 261 k.p.a.
 art. 18 ust. 2 pkt 2 ustawy o samorządzie gminnym
 art. 42 ust. 2 w zw. zart. 41 ust. 1 ustawy o samorządzie powiatowym
 art. 84 ust. I i 3 ustawy o samorządzie powiatowym

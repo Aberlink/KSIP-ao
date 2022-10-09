@@ -8,11 +8,11 @@ art. 25 $ 1 u.s.p.
 art. 56 $ 1 u.s.p.
 art. 10a. ust. 1 u.p.
 art. 67 ust. 1 pkt 3 u.p.
-art. 8S$1 k.c.
+art. 8 $ 1 k.c.
 art. 14 k.c.
 art. 16 $2 k.c.
 art. 25 k.c.
-art. 3I$1 k.c.
+art. 31 $1 k.c.
 art. 46 $ 1 k.c.
 art. 53$1 k.c.
 art. 56 k.c.
@@ -23,7 +23,7 @@ art. 97 k.c.
 art. 201 k.c.
 art. 222 $ 2 k.e.
 art. 223$ 1 k.c.
-art. 22981 k.c.
+art. 229 $ 1 k.c.
 art. 232 k.c.
 art. 243 k.c.
 art. 245 $ 2 k.c.
@@ -40,23 +40,23 @@ art. 659 $ 1 k.c. w zw. z art. 693 $ lk.c. i art. 710k.c.
 art. 876 $ 2 k.c.
 art. 924 k.c.
 art. 927 $1 k.c. wzw.zart.931$1 k.c. a  contrario
-art. 9290 k.c.
+art. 929 k.c.
 art. 932 $ 1 k.c.
 art. 932 $3 k.c.
 art. 934 $ 1 k.c.
-art. 9817 $ 1 k.c.
-art. 1034: $ 1 k.c.
+art. 981-1 $ 1 k.c.
+art. 1034-1 $ 1 k.c.
 art. 4 Konwencji dotyczącej cywilnych  aspektów uprowadzenia dziecka za granicę
 art. 1 ust. I rozporządzenia Rady (WE) nr 2201/2003 z dnia 27 listopada 2003 r. dotyczącego jurysdykcji oraz uznawania i wykonywania orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej (Bruksela I bis)
 art. 99 k.r.o.
 art. 21 k.r.o.
 art. 95 $ 1 k.r.o. i art. 113 $ 1 k.r.o.
 art. 5381 k.r.o.
-art. 22 k.p.e.
+art. 22 k.p.c.
 art. 117 $ 6 k.p.c.
 art. 342 k.p.c.
 art. 351 $1 k.p.c.
-art. 370 k.p.e.
+art. 370 k.p.c.
 art. 394' $1' k.p.c.
 art. 130 $ 3 k.p.c.
 art. 144 $ 1 k.p.c.
@@ -64,12 +64,12 @@ art. 200 $ 3 k.p.c.
 art. 583 k.p.c.
 art. 561 $ 1 k.p.c.
 art. 581 $ 2 k.p.c.
-art. 499 k.p.e. i art. 502! $ 1 k.p.c.
+art. 499 k.p.c. i art. 502! $ 1 k.p.c.
 art. 497 $ I k.p.c.
-art. 747 k.p.e. i art. 748 k.p.c.
+art. 747 k.p.c. i art. 748 k.p.c.
 art. 823 k.p.c. i art. 824 $ 1 k.p.c.
 art. 1027 $ 2 k.p.c.
-art. 1025 $ 1 k.p.e.
+art. 1025 $ 1 k.p.c.
 art. 2 k.p.
 art. 10 $ 2 k.p.
 art. 258 1 k.p.
@@ -128,9 +128,9 @@ art. 58 $ 2 k.p.a.
 art. 184 $ 4 k.p.a. w zw. zart. 1458 1 p. 4 k.p.a.
 art. 31 $ 2 k.p.a.
 art. 151 $ I pkt I w zw.zart. 12781 k.p.a.
-art. 1381 p.p.s.a.
+art. 13 $ 1 p.p.s.a.
 art. 52 $ 2 p.p.s.a.
-art. S$1i2 p.p.s.a. a contrario
+art. 8 $ 1 i 2 p.p.s.a. a contrario
 art. 12 p.o.u.s.a.
 art. 11 p.p.s.a.
 art. 240 $ 1 pkt 4 Ord. pod. w zw. z art. 247 $  1 Ord. pod. a contrario

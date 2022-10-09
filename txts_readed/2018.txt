@@ -10,7 +10,7 @@ art. 150 $ 3 ustawy — Prawo o ustroju sądów powszechnych
 art. 14 $ 1 ustawy — Prawo o prokuraturze
 art. 33 $ 2 ustawy — Prawo o prokuraturze
 art. 83 $,.1 k.c.
-_art. 99 $ 2 k.c.
+art. 99 $ 2 k.c.
 art. 117 $ 2 zd. 2 k.c.
 art. 157 $ 2 k.c.
 art. 220 k.c.
@@ -26,40 +26,40 @@ art. 1036 k.c.
 art. 1049 $ 1 k.c. w zw. zart. 1048 k.c.
 art. 609 $ 2 k.p.c.
 art. 635 $ 1 k.p.e.
-art. 669' $ 2 k.p.c.
+art. 669-1 $ 2 k.p.c.
 art. 11 k.p.c.
 art. 7 k.p.c.
 art. 17 pkt 3 k.p.c.
 art. 38 $ 1 pkt 1 k.p.c.
 art. 117 $5 k.p.c.
-art. 117" $3 k.p.e.
-art. 130" $ 2 k.p.c.
+art. 117-1 $ k.p.e.
+art. 130-1 $ 2 k.p.c.
 art. 170 k.p.c.
 art. 192 k.p.c.
 art. 199 $ 1 pkt 1 k.p.c.
 art. 202 k.p.c.
 art. 203 $ 1 k.p.c.
-art. 205 $ 2 k.p.c.
-art . 3987 $2 pkt 3 k.p.c.
+art. 205-4 $ 2 k.p.c.
+art 398-2 $2 pkt 3 k.p.c.
 art. 432 k.p.c.
-art. 4580 $ 1 k.p.c.
-art. 4587 $ 2 pkt 2 k.p.c.
-art. 11$1li2k.r.o.
+art. 458-6 $ 1 k.p.c.
+art. 458-2 $ 2 pkt 2 k.p.c.
+art. 11 k.r.o.
 art. 18 k.r.o.
 art. 33 pkt 6 k.r.o.
 art. 53 $ 1 k.r.o.
 art. 619 k.r.o. w zw. art. 61'! k.ro.
-art. 61'* $ 1 k.r.o.
+art. 61-14 $ 1 k.r.o.
 art. 78 $ 1 k.r.o.
-art. 117-$ I k.r.o.
+art. 117 $ I k.r.o.
 art. 137 $1 k.r.o.
 art. 144 $ 1 k.r.o.
-art. 144' k.r.o.
+art. 144-1 k.r.o.
 art. 157 k.r.o.
 art. 164 k.r.o.
 art. 166 $ 1 k.r.o.
 art. 181 $ 1 k.r.o.
-art. 4 $1pktli2k.s.h.
+art. 4 k.s.h.
 art. 21 $ 1 pkt 1 i 4 k.s.h.
 art. 86 $ 2 k.s.h.
 art. 126 $ 2 k.s.h.
@@ -69,7 +69,7 @@ art. 12 ust. 2 i 3 ustawy o Krajowym Rejestrze Sądowym
 art. 20a ust. 1 ustawy o Krajowym Rejestrze Sądowym
 art. 134 k.p.
 art. 135 $ 1 k.p.
-! eM. art. 97 $ 2' k.p
+art. 97 k.p
 art. 124 $ 3 k.p.
 art. 178 $ 1 k.p.
 art. 1 $ 2 k.k.
@@ -78,20 +78,20 @@ art. 18 $ 2 k.k.
 art. 26 $ 3 k.k.
 art. 31 $2 k.k.
 art. 34 $ 1 k.k.
-art. 39 pkt 2b i Żc k.k.
+art. 39 k.k.
 art. 42 $ 2 k.k.
 art. 54 $ 2 k.k.
 art. 66 $ 2 k.k.
 art. 73 $ 2 k.k.
 art. 115 $ 16 k.k.
-art. 93d$1 k.k.
+art. 93 k.k.
 art. 288 $ 114 k.k.
 art. 310 $ 1, 2i4 k.k. w zw. zart. 270 $3 k.k. iart. 148 k.k.
 art. 6 $ 2 k.k.s.
 art. 8 $ 1 k.k.s.
 art. 23 $ 2 k.k.s.
 art. 124 $ 1 k.k.s. w zw. zart. 171 pkt 1 k.k.s.
-art. 12051i2 k.k.s.
+art. 120 k.k.s.
 art. 153 $ 1 k.k.s.
 art. 148 $ 5 k.k.s.
 art. 387 $ 1 k.p.k.
@@ -108,7 +108,7 @@ art. 462 $ 1 k.p.k.
 art. 537 $ 2 k.p.k.
 art. 14 $ 1 k.w.
 art. 18 pkt 1 k.w.
-art. 11981 k.w.
+art. 119 k.w.
 art. 18 $ 1 k.k.w.
 art. 20a $ 2 k.k.w.
 art. 43e $ 1 k.k.w.
